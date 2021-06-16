@@ -1,0 +1,17 @@
+function whosPaying(names) {
+    
+/******Don't change the code above*******/
+    
+    //Write your code here.
+    var n=names.length;
+    var pos=Math.floor(Math.random()*n);
+    var person=names[pos];
+    return person+" is going to buy lunch today!";
+    
+    
+    
+    
+
+
+/******Don't change the code below*******/    
+}
